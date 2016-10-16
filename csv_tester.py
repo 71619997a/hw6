@@ -9,5 +9,6 @@ for k in d:
     #   a name and its ID?
     #   eg,
     #   sasha, 3
+    print k['name'],',', k['id']
 
     
